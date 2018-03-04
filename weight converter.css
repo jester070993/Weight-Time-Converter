@@ -1,0 +1,63 @@
+.center {
+  text-align: center;
+    border: 1px dashed grey;
+    padding: 22px;
+
+}
+
+.center-center{
+  text-align: center;
+}
+
+
+
+.border{
+  border: 1px solid black;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+}
+
+.btn-center {
+  text-align: center;
+}
+
+.btn{
+      border: 2px solid steelblue;
+
+}
+
+body {
+  margin-top: 10px;
+  background: lightgrey;
+  color: black;
+  margin-bottom:10px;
+  font-family: 'Mina', sans-serif;
+
+}
+
+.panel{
+  font-size: 25px;
+  border: 2px solid steelblue;
+}
+
+.row-centered{
+  display: inline-block;
+  float:none;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 55px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+#poundInput{
+  border: 2px solid steelblue;
+}
+
+#minuteInput{
+  border: 2px solid steelblue;
+}
+
